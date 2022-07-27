@@ -10,7 +10,9 @@ The dataset used describes Euro daily exchange rates from 1999 to 2021. It conta
 Every US ruling party has a different economic plan. Republicans tend to focus inwards, control tax levels, revise trade agreements, and increase military spending. Democrats focus on external expansion and decreasing military spending. These economic approaches could either stimulate or negatively impact the US economy and, in turn, influence the EURO/USD trend.
 
 ## Findings
-Whether the EURO/USD rate will appreciate or depreciate in the months after an election seems to depend on the candidate who wins. When Republicans win, EURO/USD rates seem to rise, signifying a weaker dollar. This pattern reverses when Democrats win as the Dollar generally regains its strength against the Euro. The movement is partly explained by the opposing fiscal and monetary policies these parties prefer to adopt.
+Whether the EURO/USD rate will appreciate or depreciate in the months after an election seems to depend on the candidate who wins. <br><br>
+<img src="./images/finding.png" height=500px, width=1000px><br><br>
+When Republicans win, EURO/USD rates seem to rise, signifying a weaker dollar. This pattern reverses when Democrats win as the Dollar generally regains its strength against the Euro. The movement is partly explained by the opposing fiscal and monetary policies these parties prefer to adopt.
 
 ## Tools
 - [Numpy](https://numpy.org)
