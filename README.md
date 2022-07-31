@@ -11,7 +11,7 @@ Every US ruling party has a different economic plan. Republicans tend to focus i
 
 ## Findings
 Whether the EURO/USD rate will appreciate or depreciate in the months after an election seems to depend on the candidate who wins. <br><br>
-<img src="./images/finding.png" height=500px, width=1000px><br><br>
+<img src="./images/finding.png"><br><br>
 When Republicans win, EURO/USD rates seem to rise, signifying a weaker dollar. This pattern reverses when Democrats win as the Dollar generally regains its strength against the Euro. The movement is partly explained by the opposing fiscal and monetary policies these parties prefer to adopt.
 
 ## Tools
